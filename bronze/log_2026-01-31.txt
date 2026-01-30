@@ -1,0 +1,4 @@
+2026-01-30 08:11:11 ERROR Failed to connect to server
+2026-01-30 08:13:09 INFO Connection established
+2026-01-30 08:22:26 WARN High memory usage detected
+2026-01-30 08:01:02 ERROR Timeout occurred
